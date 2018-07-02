@@ -104,3 +104,5 @@ Starship Inventory:
 		fuel 600
 		shields 600
 		hull 1000
+
+https://github.com/The-Borg-Captain/Endless-Sky-Discord-RP
