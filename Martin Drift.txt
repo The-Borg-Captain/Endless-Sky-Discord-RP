@@ -5,9 +5,9 @@ Ship name; Thirty-Seven Degrees
 Ship type: Aphid
 
 Bio: Martin was part of the Terran Advance Reconnoitering Initative aboard the 
-	ship Endurance one of humanities first Plot device MKII exploration craft. They 
-	explored all of the places thier Plot device MKII could take them. Until they 
-	came across a ship that was different from any that they had seen. 
+	ship Endurance one of humanities first Plot device MKII exploration craft. The 
+	Endurances Mission was to explore as far as their Plot device MKII could take them. 
+	Until they came across a ship that was different from any that they had seen. 
 	Martin's last memories are seeing a strange hammerhead ship, then waking 
 	up 780 years in the future on a Star Barge called the Thirty-Six Degrees, Which 
 	according to the comupter he owns ,he also learn that he's on Clark in the Seginus 
