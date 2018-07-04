@@ -26,6 +26,26 @@ Political Sympathy: Neutral [Political Sympathies all provide a +/- 5 when deali
 
 Support Disposition: Scanner ace which adds +/- 10 to all scan rolls, on ground and in the sky.
 
+Land Inventory: 
+		Standard sidearm [+1 Damage]
+		2x Laser Rifle [+ 2 Damage]
+		Plasma Rifle [+2 Damage +2 heat]
+		Gas Mask
+		Mercenary Combat Armor [+/-3 damage rating, +/- 3 when talking to a Mercenaries]
+		Jump pack [+10 agility]
+		Stability brace [+3 accuracy]
+		IR scanner [It doesn't quite let One see through walls, but it will definitely 
+		help One see in the dark and detect new paths and hidden panels, and traps]
+
+
+Unique:		HappyPistol™ [1d6 stun at range (no damage) and +5 melee]
+Unique:		Energy Shotgun [+/-8 damage at close range, needs crit to hit at range]
+Unique:		A very old projectile based rifle, but smaller than standard (In need of repair)
+
+Will:
+	I, Martin Drift upon death leave 
+		to Roger and Serena 1x Unique:Energy Shotgun
+		to Emma Normandy I leave everthing else
 
 Name: Emma Normandy
 Species: Human
@@ -84,28 +104,6 @@ Credits: Starting = 80489
 	+2,650,000 selling Aphid and star barge = 8,507,478
 	-7,814,000 Buying an upgraded Mule = 693,478
 	
- 
-Land Inventory: 
-		Standard sidearm [+1 Damage]
-		2x Laser Rifle [+ 2 Damage]
-		Plasma Rifle [+2 Damage +2 heat]
-		Gas Mask
-		Mercenary Combat Armor [+/-3 damage rating, +/- 3 when talking to a Mercenaries]
-		Jump pack [+10 agility]
-		Stability brace [+3 accuracy]
-		IR scanner [It doesn't quite let One see through walls, but it will definitely 
-		help One see in the dark and detect new paths and hidden panels, and traps]
-
-
-Unique:		HappyPistol™ [1d6 stun at range (no damage) and +5 melee]
-Unique:		Energy Shotgun [+/-8 damage at close range, needs crit to hit at range]
-Unique:		A very old projectile based rifle, but smaller than standard (In need of repair)
-
-Will:
-	I, Martin Drift upon death leave 
-		to Roger and Serena 1x Unique:Energy Shotgun
-		to Emma Normandy I leave everthing else
-
 Ship name: Thirty-Eight Degrees
 Ship type: Mule
 Starship Inventory:
